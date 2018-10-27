@@ -5,7 +5,7 @@ Repository for people to contribute python code freely! Anyone is welcome to con
 Get Hackin!
 
 
-![hacktoberfest logo](./.doc/logo-hacktoberfest.png)
+![hacktoberfest logo](./.doc/hacktober-fest-logo.png)
 
 
 # What is Hacktoberfest?
